@@ -145,7 +145,7 @@ const styles = StyleSheet.create({
     fontSize: 25,
   },
   buttonDesign: {
-    backgroundColor: "rgba(80, 235, 236,0.3)",
+    backgroundColor: "rgba(80, 235, 236,0.4)",
     width: 80,
     height: 40,
     borderColor: "black",
